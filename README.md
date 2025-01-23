@@ -23,7 +23,7 @@
 |         **아이디** |                          **목표** |
 | --- | --- |
 | [김수진(kim429)](https://github.com/kim429) | (여기에 개인 목표가 표시됩니다.) |
-|  |  |
+| [김동찬(LoxaLovecarstone)](https://github.com/LoxaLovecarstone) | AtCoder Beginner Contest 기출 문제 중 [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/) 기준 Difficulty 400 ~ 800 사이의 2문제 Upsolving 하기 |
 
 # 💸 규칙
 
