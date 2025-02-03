@@ -22,7 +22,7 @@
 
 |         **아이디** |                          **목표** |
 | --- | --- |
-| [김수진(kim429)](https://github.com/kim429) | (여기에 개인 목표가 표시됩니다.) |
+| [김수진(kim429)](https://github.com/kim429) | 백준 5문제 이상 풀기 |
 | [김동찬(LoxaLovecarstone)](https://github.com/LoxaLovecarstone) | AtCoder Beginner Contest 기출 문제 중 [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/) 기준 Difficulty 400 ~ 800 사이의 2문제 Upsolving 하기 |
 | [오승연(syeony)](https://github.com/syeony) | 2/2 부터 시작 |
 | [김민(ZeppIine)](https://github.com/ZeppIine) | 백준 브론즈 ~ 실버 3문제 자바로 풀기 (1/31 ~ 2/1 이후) |
