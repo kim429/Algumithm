@@ -1,3 +1,6 @@
+github 레파지토리 변경 -> https://github.com/Algumithm/study
+
+
 # ✅ 진행 방식
 
 ### 저희 스터디는 **공통 목표**와 주간 **개인 목표**를 설정해야 합니다.
