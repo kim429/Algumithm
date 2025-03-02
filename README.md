@@ -35,6 +35,7 @@ github 레파지토리 변경 -> https://github.com/Algumithm/study
 | [동현진(bronzing3412)](https://github.com/bronzing3412) | 백준 5문제 이상 풀기 (설 연휴 이후) |
 | [박경찬(chomuG)](https://github.com/chomuG) | 매일 백준 골드 이상급 알고리즘 1문제 이상 풀기 (설 연휴 이후) |
 | [송진우(openSongce)](https://github.com/openSongce) | 백준 기초부터 3문제씩 자바로 풀기 (설 연휴 이후) |
+| [오승연(syeony)](https://github.com/syeony) | 쉬운 문제더라도 매일 한문제 이상씩 풀기 |
 
 # 💸 규칙
 
